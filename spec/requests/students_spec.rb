@@ -34,7 +34,7 @@ RSpec.describe "Students", type: :request do
     end
   end
   
-  ## BONUS: un-comment out the code below to run the bonus test
+  # BONUS: un-comment out the code below to run the bonus test
 
   # describe "GET /students/highest-grade" do
   #   it 'returns the student with the highest grade' do
